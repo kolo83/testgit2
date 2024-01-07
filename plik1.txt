@@ -2,3 +2,4 @@ przykład pierwszej linii
 drugalinia
 trzecia linia
 przypomnijHasło
+test git pull
