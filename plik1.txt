@@ -1,3 +1,4 @@
 przykład pierwszej linii
 drugalinia
 trzecia linia
+przypomnijHasło
